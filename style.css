@@ -12,7 +12,7 @@ html,body {
   position: absolute;
   width:100vw;
   font-family: 'Tahoma';
-  color: #fff;
+  color: rgb(0, 0, 0);
   background-color:  rgba(139, 125, 139, 0.5);
   opacity: 50%;
   text-align: center;
