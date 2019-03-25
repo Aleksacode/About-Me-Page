@@ -1,3 +1,7 @@
+@font-face {
+    font-family: 'tahoma';
+    src: url('/tahoma.ttf');
+}
 html,body {
     width:100vw;
     height: 100vh;
@@ -7,7 +11,7 @@ html,body {
 #textdiv{
   position: absolute;
   width:100vw;
-  font-family: 'Patua One', cursive;
+  font-family: 'Tahoma';
   color: #fff;
   background-color:  rgba(139, 125, 139, 0.5);
   opacity: 50%;
