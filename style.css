@@ -9,15 +9,30 @@ html,body {
 }
 
 #textdiv{
-  position: absolute;
+  /* position: absolute;
   width:100vw;
   font-family: 'Tahoma';
   color: rgb(255, 255, 255);
   background-color:  rgba(139, 125, 139, 0.5);
   opacity: 50%;
-  text-align: center;
+  text-align: center; */
 }
 
+#textdiv{
+    position: absolute;
+    width:100vw;
+    font-family: 'Tahoma';
+    color: white;
+    text-align: center;
+
+}
+#textdiv h1{
+    font-size: 80px;
+}
+
+#textdiv p{
+    font-size: 50px;
+}
 #videoBG {
     position:fixed;
     z-index: -1;
